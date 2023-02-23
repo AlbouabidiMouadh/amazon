@@ -1,5 +1,5 @@
 import React from "react";
-import Data from "../data";
+import Data from "../../../backend/data";
 import { Link } from "react-router-dom";
 
 function HomeScreen() {
